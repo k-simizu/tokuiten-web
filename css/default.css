@@ -1,0 +1,62 @@
+*{
+    font-family: 'ＭＳ 明朝', serif;
+}
+
+/*リンク*/
+a {
+    color :#000000;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+/*リスト*/
+ul li{ 	
+    /*ブレットは邪魔なので消す*/
+    list-style-type: none;  
+
+
+    /*背景画像で指定する*/
+    background-image: url();
+    background-positon: left center;
+    background-repeat: no-repeat;
+    padding-left: 0px;
+    font-size:20pt;
+}
+
+.center{
+  
+  text-align: center;
+}
+
+/*縦書き*/
+.tategaki{
+  writing-mode: vertical-rl;
+  position:absolute;
+  top:50%;
+  left:50%;
+  display:inline;
+  transform:translate(-50%, -50%);
+  font-size:30pt;
+}
+
+/*ブルブル加工*/
+.buruburu:hover {
+    display: inline-block;
+    animation: hurueru .1s  infinite;
+}
+
+@keyframes hurueru {
+    0% {transform: translate(0px, 0px) rotateZ(0deg)}
+    25% {transform: translate(5px, 5px) rotateZ(1deg)}
+    50% {transform: translate(0px, 5px) rotateZ(0deg)}
+    75% {transform: translate(5px, 0px) rotateZ(-1deg)}
+    100% {transform: translate(0px, 0px) rotateZ(0deg)}
+}
+
+
+
+
+*{
+  
+  text-align: center;
+}

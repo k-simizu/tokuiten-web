@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>人</title>
+    <link rel="stylesheet"  type="text/css" href="./css/contact.css">
+</head>
+
+  <body bgcolor="#bdb76b"　class="center">
+    <br>
+      <img src="./images/top-top.png" align="top">
+    
+      <h1>シミズケイゴ</h1>
+      web製作、デザイン、企画立案
+      <h1>武井 the skywalker</h1>
+      音楽作成、企画、広報
+      <h1>Accraゆうき</h1>
+      エンジニア
+      <h1>hitomi</h1>
+      企画立案、広報、生き様
+      <img src="./images/kgm1.png" align="bottom">	 
+	 <img src="./images/top-bottom.png" align="bottom">	      
+  </body>
+</html>

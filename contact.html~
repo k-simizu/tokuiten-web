@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>連絡</title>
+    <link rel="stylesheet"  type="text/css" href="./css/index.css">
+</head>
+
+    <body bgcolor="#bdb76b">
+      <img src="./images/top-top.png" align="top">
+      
+  <img src="./images/top.png" align="left">
+    
+    <br><br><br><br>
+    <ul>
+      <li class="buruburu"><a href="./human.html">人</a></li>
+      <li class="buruburu"><a href="./activity.html">活動</a></li>
+      <li class="buruburu"><a href="./work.html">作品</a></li>
+      <li class="buruburu"><a href="./contact.html">連絡</a></li>
+    </ul>
+    
+    <p>誰が生きているのか。<br>本当にふざけたことをいうんじゃあない。<br>生きてるのはあなたのはず。<br>ああ私なんか、ぽつんと取り残された、<br>周りから置いて行かれた蟻。<br>ただの蟻でさえない。周りとちがう、<br>すごくグロテクスなのね。<br>わたし。<br>そういえばやり残した、人類の後払いをしに。</p>
+	 	    
+	 <img src="./images/top-bottom.png" align="bottom">	      
+  </body>
+</html>
